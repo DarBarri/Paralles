@@ -1,0 +1,8 @@
+make of mkdir build && cmake ..
+
+if you want double type of vector make double or mkdir builc && cmake -USE_DOUBLE=ON ..
+
+Results:
+
+    result of float 0.291951
+    result of double 4.89582e-11
