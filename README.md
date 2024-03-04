@@ -1,2 +1,2 @@
 # Paralles
-curently done only task 1
+curently done only task 1 and partually 2
